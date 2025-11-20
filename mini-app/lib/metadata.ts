@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "DreamFolding Atlas";
+export const description = "Fold, twist, and distort reality by manipulating your dreams in the DreamFolding Atlas.";
 export const url = process.env.NEXT_PUBLIC_URL;
